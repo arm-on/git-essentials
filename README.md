@@ -9,6 +9,7 @@ Table of contents:<br>
 |-|-|
 |__command__|__what it does__|
 | `git checkout -- .` | roll back all changes in the current git repo (assumes that changed files are not staged using `git add`) | 
+| `git reset --hard HEAD~2` | Hard reset to two commits back |
 
 
 
